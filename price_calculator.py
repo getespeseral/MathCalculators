@@ -1,4 +1,4 @@
-# (c) 2025 Full Name 
+# (c) 2025 Kristoff Getes and Angeline Peseral
 # A simple store calculator using functions. 
  
 def get_payment(cost): 
